@@ -1,0 +1,20 @@
+// other code
+
+import CursorChat from '@yomo/cursor-chat-react';
+import GroupHug from '@yomo/group-hug-react';
+
+
+export default function Home(){
+// other code
+
+return(
+
+// other code
+
+<CursorChat />
+<Grouphug />
+
+// other code
+
+)
+}
