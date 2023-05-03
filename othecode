@@ -1,4 +1,5 @@
-// other code
+// npm install @yomo/cursor-chat-react
+npm install @yomo/group-hug-react
 
 import CursorChat from '@yomo/cursor-chat-react';
 import GroupHug from '@yomo/group-hug-react';
